@@ -1,6 +1,5 @@
 # Fetching Data from a Third-Party API with Vue.js and Axios
 
-Learn to build data-driven apps with Vue 2. Olayinka Omole creates a simple client to pull news stories from the New York Times API with the Axios library.
 
 Read the article on SitePoint: https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
 
