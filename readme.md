@@ -1,8 +1,6 @@
 # Fetching Data from a Third-Party API with Vue.js and Axios
 
 
-Read the article on SitePoint: https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/
-
 ## Requirements
 
 * None
